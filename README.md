@@ -68,7 +68,5 @@ public partial class MainPage : ContentPage
 ```
 
 # Unlock the Full Version
-Gain access to the entire plugin, free from the evaluation popup limit, by supporting our project with a small contribution. Your support acknowledges our hard work and dedication 🥰. We suggest trying the evaluation copy before making a purchase. Plus, we've made it affordable for all customers.
-
-Upon completing your payment of RS 2,500 NRS for our IME Payment Gateway Plugin, please provide your GitHub email address and bank receipt at 8ringsoft@gmail.com. Thank you.
+For full version access, please contact us at 8ringsoft@gmail.com. The price is NRS 2500. Thank you!
 
