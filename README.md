@@ -20,9 +20,6 @@ To start using the IMEPay Plugin in your .NET MAUI project, follow these simple 
    dotnet add package Plugin.Maui.IMEPay --version 0.0.1
    ```
 
-## .NET MAUI Android Implementation (MainActivity.cs)
-
-
 
 ## .NET MAUI Implementation (MainPage.xaml.cs)
 
