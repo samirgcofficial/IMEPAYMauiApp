@@ -19,6 +19,8 @@ To start using the IMEPay Plugin in your .NET MAUI project, follow these simple 
    ```sh
    dotnet add package Plugin.Maui.IMEPayMin --version 0.0.2
    ```
+## Plugin.Maui.IMEPayMin
+[![NuGet](https://img.shields.io/nuget/v/Plugin.Maui.IMEPayMin.svg)](https://www.nuget.org/packages/Plugin.Maui.IMEPayMin/)
 
 
 ## .NET MAUI Implementation (MainPage.xaml.cs)
